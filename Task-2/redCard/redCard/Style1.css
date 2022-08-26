@@ -1,0 +1,101 @@
+/* header css*/
+.background{
+    
+    background-color: rgb(145, 32, 32);
+    height: 1100px;
+    clip-path: polygon(
+    0 0%,
+    0% 0,
+    0% 0,
+    100% 0%,
+    100% 84%,
+    87% 100%,
+    0% 100%,
+    0% 90%,
+    0% 10%
+  );
+  
+}
+.logo{
+    margin-top: 5%;
+    margin-left: 7%;
+}
+.heading{
+    color: white;
+    text-align: left;
+    font-weight: 800;
+    font-size: 110px;
+    margin-left: 7%;
+    margin-top: 1%;
+}
+.title{
+    color: black;
+    text-align: left;
+    font-weight: 800;
+    font-size: 50px;
+    margin-left: 7%;
+    margin-top: -1%;
+}
+.text{
+    color: white;
+    text-align: left;
+    font-size: 27px;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* header css end*/
+/* card css*/
+.icon{
+    width: 4%; 
+    height:50px; 
+    margin-top:1%;
+
+}
+.cardTitle{
+    margin-left: 7%;
+    display: flex;
+    margin-top: 5%;
+}
+.card-group{
+    margin-left:5%;
+    margin-right:4% ;
+
+}
+.card{
+    margin-top: 3%;
+    border: none;
+}
+.card-img-top{
+    height: 70%; 
+    width:55%; 
+    margin-left: 20%;
+}
+/* card css end*/
+.background_footer{
+    
+    background-color: rgb(145, 32, 32);
+    height: 400px;
+    clip-path: polygon(
+    0 0%,
+    0% 0,
+    0% 0,
+    100% 0%,
+    100% 72%,
+    90% 100%,
+    0% 100%,
+    0% 90%,
+    0% 10%
+  );
+    margin-top: 10%;
+  
+}
+.footer_text{
+    text-transform: uppercase;
+    padding-top: 10%;
+    color: white;
+    text-align: left;
+    font-weight: 800;
+    font-size: 55px;
+    margin-left: 7%;
+
+}
